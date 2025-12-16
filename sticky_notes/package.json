@@ -1,0 +1,21 @@
+{
+  "name": "sticky-notes",
+  "version": "1.0.0",
+  "description": "A simple desktop sticky notes application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "sticky-notes",
+    "desktop",
+    "notes"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^27.0.0"
+  }
+}
+
+

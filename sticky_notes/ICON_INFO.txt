@@ -1,0 +1,11 @@
+ICON INFORMATION
+================
+
+The application expects an icon.png file for the system tray.
+
+If icon.png is not present, the application will attempt to create a default icon.
+You can add your own 16x16 or 32x32 PNG icon file named "icon.png" in this folder.
+
+For now, the application will work without an icon, but you may see a default system icon in the tray.
+
+
